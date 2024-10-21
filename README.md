@@ -1,4 +1,4 @@
-# Frida Installer Script
+# Frida Server auto installer
 
 This script automates the process of downloading the latest Frida server and installing it on a connected Android device. It handles architecture detection and simplifies the setup for Frida-based reverse engineering or instrumentation.
 
